@@ -10,10 +10,10 @@ body {
     line-height: 1.6;
     color: #333;
     background-color: #f4f4f4;
-    background-image: url('ClipEdito_icon.svg'); /* Add SVG as background */
+    background-image: url('ClipEdito_icon.svg'); /* SVG added here */
     background-repeat: no-repeat; /* Prevent tiling */
     background-position: center top; /* Position at the top center */
-    background-size: 150px auto; /* Adjust size (e.g., 150px width, auto height) */
+    background-size: 150px auto; /* Adjust size */
     background-attachment: fixed; /* Keeps background fixed while scrolling */
     padding: 20px;
 }
